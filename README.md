@@ -51,14 +51,17 @@ The code for the digital portfolio webpage needed to be written from scratch and
 The following image shows the web application appearance once deployed
 
 
-![html screenshot](/assets/images/deployed-site-image.jpg)
+![about screenshot](./src/assets/mockup1.png)
+![about screenshot](./src/assets/mockup2.png)
+![about screenshot](./src/assets/mockup3.png)
+![about screenshot](./src/assets/mockup4.png)
 
 
 **Links**
 
 [URL of the deployed application](https://elliechayo.github.io/portfolio-webpage/)
 
-[URL of the GitHub repository](https://github.com/elliechayo/portfolio-webpage)
+[URL of the GitHub repository](https://github.com/elliechayo/react-portfolio)
 
 ## License
 
