@@ -59,7 +59,7 @@ The following image shows the web application appearance once deployed
 
 **Links**
 
-[URL of the deployed application](https://elliechayo.github.io/portfolio-webpage/)
+[URL of the deployed application](https://elliechayo.github.io/react-portfolio/)
 
 [URL of the GitHub repository](https://github.com/elliechayo/react-portfolio)
 
