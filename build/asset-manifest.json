@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ffa6b900.css",
-    "main.js": "/react-gh-pages/static/js/main.bd39d849.js",
-    "static/media/projects-image-9.jpg": "/react-gh-pages/static/media/projects-image-9.21bb9c0be0db28818584.jpg",
-    "static/media/projects-image-3.jpg": "/react-gh-pages/static/media/projects-image-3.560b54bb8b2a40a132ac.jpg",
-    "static/media/projects-image-7.jpg": "/react-gh-pages/static/media/projects-image-7.eca517a342bb7be8dacc.jpg",
-    "static/media/projects-image-8.jpg": "/react-gh-pages/static/media/projects-image-8.cb5b8e5ead458ca8b89e.jpg",
-    "static/media/projects-image-1.jpg": "/react-gh-pages/static/media/projects-image-1.699c04d71a85030d2984.jpg",
-    "static/media/projects-image-5.jpg": "/react-gh-pages/static/media/projects-image-5.132ca22e4df0779b4c97.jpg",
-    "static/media/projects-image-4.jpg": "/react-gh-pages/static/media/projects-image-4.266bb2228edae0afef2e.jpg",
-    "static/media/button-background.png": "/react-gh-pages/static/media/button-background.98995405f4a091dcae48.png",
-    "static/media/projects-image-2.jpg": "/react-gh-pages/static/media/projects-image-2.5e94741587829cd137a0.jpg",
-    "static/media/projects-image-6.jpg": "/react-gh-pages/static/media/projects-image-6.5d4cf232805cd006609a.jpg",
-    "static/media/about-image.jpeg": "/react-gh-pages/static/media/about-image.c06d91a04f2866f57865.jpeg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ffa6b900.css.map": "/react-gh-pages/static/css/main.ffa6b900.css.map",
-    "main.bd39d849.js.map": "/react-gh-pages/static/js/main.bd39d849.js.map"
+    "main.css": "/react-portfolio/static/css/main.cbc722fc.css",
+    "main.js": "/react-portfolio/static/js/main.6327a611.js",
+    "static/media/projects-image-9.jpg": "/react-portfolio/static/media/projects-image-9.21bb9c0be0db28818584.jpg",
+    "static/media/projects-image-3.jpg": "/react-portfolio/static/media/projects-image-3.560b54bb8b2a40a132ac.jpg",
+    "static/media/projects-image-7.jpg": "/react-portfolio/static/media/projects-image-7.eca517a342bb7be8dacc.jpg",
+    "static/media/projects-image-8.jpg": "/react-portfolio/static/media/projects-image-8.cb5b8e5ead458ca8b89e.jpg",
+    "static/media/projects-image-1.jpg": "/react-portfolio/static/media/projects-image-1.699c04d71a85030d2984.jpg",
+    "static/media/projects-image-5.jpg": "/react-portfolio/static/media/projects-image-5.132ca22e4df0779b4c97.jpg",
+    "static/media/projects-image-4.jpg": "/react-portfolio/static/media/projects-image-4.266bb2228edae0afef2e.jpg",
+    "static/media/button-background.png": "/react-portfolio/static/media/button-background.98995405f4a091dcae48.png",
+    "static/media/projects-image-2.jpg": "/react-portfolio/static/media/projects-image-2.5e94741587829cd137a0.jpg",
+    "static/media/projects-image-6.jpg": "/react-portfolio/static/media/projects-image-6.5d4cf232805cd006609a.jpg",
+    "static/media/about-image.jpeg": "/react-portfolio/static/media/about-image.c06d91a04f2866f57865.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.cbc722fc.css.map": "/react-portfolio/static/css/main.cbc722fc.css.map",
+    "main.6327a611.js.map": "/react-portfolio/static/js/main.6327a611.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffa6b900.css",
-    "static/js/main.bd39d849.js"
+    "static/css/main.cbc722fc.css",
+    "static/js/main.6327a611.js"
   ]
 }
