@@ -18,7 +18,7 @@ export default function Header({ setView, view }) {
     <header>
       <nav>
         <div className="navbrand">
-          <a href="/">Elinor Chayo</a>
+          <a href="/"> Elinor Chayo</a>
         </div>
         <Navigation
           view={view}
