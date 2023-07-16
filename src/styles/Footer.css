@@ -1,14 +1,16 @@
 footer {
-  padding: 10px 0;
+  padding: 10px 0px;
   background: black;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .footer-links {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  gap: 30px;
 }
 
 .footer-links a {

@@ -12,12 +12,7 @@ export default function Project({
 }) {
   return (
     <div className="project-card">
-      <div className="image-section">
-        <img src={img} alt={title} />
-      </div>
-      <div className="text-section">
-        <h3>{title}</h3>
-        <p>{description}</p>
+      <div className="overlay">
         <div className="link-group">
           <a href={githubLink} target="_blank" rel="noreferrer">
             <BsGithub fontSize={20} />
@@ -26,6 +21,13 @@ export default function Project({
             <BiLinkExternal fontSize={20} />
           </a>
         </div>
+      </div>
+      <div className="image-section">
+        <img src={img} alt={title} />
+      </div>
+      <div className="text-section">
+        <h3>{title}</h3>
+        <p>{description}</p>
       </div>
     </div>
   );

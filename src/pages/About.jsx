@@ -8,18 +8,29 @@ export default function About({ setView }) {
       <img src={AboutImage} alt="Elinor Chayo" className="about-image" />
       <h1 className="name">
         <span>
-          <span className="small">Elinor Chayo</span>
+          <span className="small">Hi there!</span>
           <br />
+          <p>
+            I'm a{" "}
           <TypeAnimation
-            sequence={["Developer", 1000, "Designer", 1000, "Writer", 1000]}
+            sequence={[
+              "Elinor Chayo",
+              1000,
+              "A Web Developer",
+              1000,
+              " A Graphic Designer",
+              1000,
+              "A freelancer",
+              1000,
+            ]}
             repeat={Infinity}
           />
+            </p>
         </span>
       </h1>
+      
       <p className="subtitle">
-        My work is focused on producing quality work and blending graphic design
-        experience with hands-on technical training in a junior-level front-end
-        software engineering role.
+      I'm a Freelance UI/UX Designer and Developer based in New York. I create immersive web applications with user-centric design and meticulous coding. Let's collaborate and create something exceptional!
       </p>
       <button className="cta-btn" onClick={() => setView("portfolio")}>
         Portfolio

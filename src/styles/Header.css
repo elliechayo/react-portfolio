@@ -1,13 +1,14 @@
 header {
-  background-color: var(--color-dark-background);
-  color: white;
+  background-color:white;
+  color: rgb(10, 10, 10);
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 1000;
 }
 
 header a {
-  color: white;
+  color: black;
 }
 
 nav {
@@ -56,13 +57,17 @@ nav {
 
 .nav-li button {
   background: none;
-  color: white;
+  color: black;
   outline: none;
   border: none;
   font-size: 16px;
   display: block;
   pointer-events: none;
   margin: 0 auto;
+}
+
+.nav-li.hover {
+     color: darkgreen
 }
 
 .nav-li.selected {

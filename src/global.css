@@ -1,8 +1,8 @@
 :root {
-  --color-background: #e0e1dd;
+  --color-background: black;
   --color-primary: #1b263b;
   --color-dark-background: #0d1b2a;
-  --color-accent: #778da9;
+  --color-accent: #ffb400;
   --button-background: url("./assets/button-background.png") left;
 }
 

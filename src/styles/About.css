@@ -4,8 +4,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)),
-    url("../assets/hero.jpg");
+  background-color: white;
+  /* background: linear-gradient(to right, rgba(252, 251, 251, 0.7), rgba(0, 0, 0, 0.9)),
+    url("../assets/hero.jpg"); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
