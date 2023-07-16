@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer>
       <div className="footer-links">
-        <a href="/" target="_blank">
+        <a href="https://github.com/elliechayo" target="_blank">
           <BsGithub fontSize={22} />
         </a>
         <a href="/" target="_blank">
