@@ -38,6 +38,20 @@ export default function Contact() {
   return (
     <section className="section contact-section">
       <h2 className="section-title">Get in touch</h2>
+      <ul className="contact-info">
+        <li>
+          <h3>Call</h3>
+          <p>917-715-6084</p>
+        </li>
+        <li>
+          <h3>Email</h3>
+          <a href="mailto:elliechayo@gmail.com">elliechayo@gmail.com</a>
+        </li>
+        <li>
+          <h3>Follow</h3>
+          <a href="https://github.com/elliechayo">Github</a>
+        </li>
+      </ul>
       <form className="contact-form">
         <div className="formgroup">
           <MdOutlineAccountCircle fontSize={22} />
