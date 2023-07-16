@@ -71,7 +71,7 @@ export default function Contact() {
           ></textarea>
         </div>
         {errors.message && <p className="input-error">{errors.message}</p>}
-        <button className="submit-btn">Send</button>
+        <button className="submit-btn">Let's Talk</button>
       </form>
     </section>
   );

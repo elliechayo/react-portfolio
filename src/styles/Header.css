@@ -21,8 +21,9 @@ nav {
 }
 
 .navbrand a {
-  font-size: 30px;
- 
+  font-size: 24px;
+
+  margin-left: 50px;
 }
 
 .nav-ul {

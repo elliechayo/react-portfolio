@@ -6,19 +6,19 @@ export default function Resume() {
       id: 1,
       name: "HTML",
       level: 90,
-      color: "#DD4B25",
+      color: "#f97b8b",
     },
     {
       id: 2,
       name: "CSS",
       level: 85,
-      color: "#2962E9",
+      color: "#6c6ce4",
     },
     {
       id: 3,
       name: "JavaScript",
       level: 90,
-      color: "#EFD81D",
+      color: "#f9d74c",
     },
     {
       id: 4,
@@ -36,7 +36,7 @@ export default function Resume() {
 
   return (
     <section className="section resume section container">
-      <h2 className="section-title">Resume</h2>
+     
       <a
         href="https://elliechayo.github.io/portfolio-webpage/assets/Resume.pdf"
         className="resume-download"
