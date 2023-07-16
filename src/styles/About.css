@@ -15,7 +15,7 @@
 
 .about-section .name {
   font-size: clamp(48px, 5vw, 45px);
-  letter-spacing: 6px;
+  letter-spacing: 3px;
   text-transform: uppercase;
   text-align: center;
   background: var(--color-accent);
@@ -62,4 +62,20 @@
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: bold;
+}
+
+.cta-btn:hover {
+padding: 10px;
+max-width: 300px;
+width: 100%;
+border-radius: 20px;
+font-size: 16px;
+margin-top: 20px;
+border: 2px solid var(--color-accent);
+outline: none;
+background: var(--color-accent);
+color:white;
+text-transform: uppercase;
+letter-spacing: 5px;
+font-weight: bold;
 }
